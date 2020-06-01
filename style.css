@@ -29,13 +29,18 @@ a{
 }
 
 #Noidungbentrai{
-	width: 50%;
+	width: 35%;
 	float: left;
 	text-align: center;
 }
 
 #Noidungbenphai{
-	width: 50%;
+	width: 35%;
 	float: left;
 	text-align: center;
+}
+#MiniProject{
+	width: 30%;
+	float: left;
+	
 }
